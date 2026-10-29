@@ -1,3 +1,4 @@
+#just drag and drop file or folder to convert
 #import sys
 from pathlib import Path
 from PIL import Image
